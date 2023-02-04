@@ -1,8 +1,10 @@
-# NYU Neuroscience Postdoc-led Workshop: Mixed-effect modeling
+# R_MixedEffectTutorial
 
-Adapted by Andrew Chang, Feb 3, 2023
+This repo is for the NYU Neuroscience Postdoc-led Workshop: Mixed-effect modeling (Feb 10, 2023)
 
 Original work: https://ourcodingclub.github.io/2017/03/15/mixed-models.html
+
+Adapted by Andrew Chang
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
