@@ -256,6 +256,7 @@ dependencies:
   - r-lifecycle=1.0.3=r42hc72bb7e_1
   - r-listenv=0.9.0=r42hc72bb7e_0
   - r-lme4=1.1_31=r42h49197e3_0
+  - r-lmertest=3.1_3=r42hc72bb7e_1
   - r-lobstr=1.1.2=r42h49197e3_2
   - r-lubridate=1.9.1=r42h815d134_0
   - r-magrittr=2.0.3=r42h815d134_1
