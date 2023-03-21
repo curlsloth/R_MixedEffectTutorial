@@ -2,6 +2,9 @@
 
 This repo is for the NYU Neuroscience Postdoc-led Workshop: Mixed-effect modeling (Feb 10, 2023)
 
+See [here](R_MixedEffectTutorial.ipynb) for R tutorials.
+See [here](MEM.pptx) for my slides.
+
 During the workshop, I made significant modifications to the [original work](https://ourcodingclub.github.io/2017/03/15/mixed-models.html), including:
 
 1. Incorporating a discussion and visualization of multilevel nested designs
