@@ -2,13 +2,12 @@
 
 This repo is for the NYU Neuroscience Postdoc-led Workshop: Mixed-effect modeling (Feb 10, 2023)
 
-Original work: https://ourcodingclub.github.io/2017/03/15/mixed-models.html
+During the workshop, I made significant modifications to the [original work](https://ourcodingclub.github.io/2017/03/15/mixed-models.html), including:
 
-Adapted by Andrew Chang with the following major changes:
-1. Added the disucssion and visualization of multilevel nested design
-2. Added a model with random slope but without random intercetp
-3. Added the demo of using `lmerTest`
-4. Added recommended readings
+1. Incorporating a discussion and visualization of multilevel nested designs
+2. Adding a model with a random slope but no random intercept
+3. Demonstrating the use of lmerTest
+4. Providing recommended readings for further understanding.
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
