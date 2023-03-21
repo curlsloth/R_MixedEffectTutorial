@@ -1,4 +1,4 @@
-# R_MixedEffectTutorial
+# Mixed effect modeling with R tutorials
 
 This repo is for the NYU Neuroscience Postdoc-led Workshop: Mixed-effect modeling (Feb 10, 2023)
 
